@@ -23,7 +23,7 @@ function Logo() {
     <img
       src={LOGO_URI}
       alt="BeHallthy"
-      style={{ height: '100px', display: 'block', mixBlendMode: 'multiply' }}
+      style={{ height: '65px', display: 'block', mixBlendMode: 'multiply' }}
     />
   );
 }
@@ -101,7 +101,7 @@ export default function App() {
         backgroundColor: c.pageBg,
         borderBottom: `1px solid #ddd8d2`,
       }}>
-        <div style={{ maxWidth: '600px', margin: '0 auto' }}>
+        <div>
           <Logo />
         </div>
       </header>
