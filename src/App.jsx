@@ -118,9 +118,9 @@ export default function App() {
 
         {/* Headline */}
         <h1 style={{
-          fontFamily: '"Nunito", sans-serif',
-          fontSize: 'clamp(30px, 6vw, 46px)',
-          fontWeight: '800',
+          fontFamily: '"Lora", Georgia, serif',
+          fontSize: 'clamp(26px, 5vw, 38px)',
+          fontWeight: '700',
           lineHeight: '1.2',
           letterSpacing: '-0.4px',
           marginBottom: '22px',
