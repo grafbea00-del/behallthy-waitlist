@@ -21,9 +21,9 @@ const c = {
 function Logo() {
   return (
     <img
-      src="/logo.png"
+      src={LOGO_URI}
       alt="BeHallthy"
-      style={{ height: '200px', display: 'block' }}
+      style={{ height: '56px', display: 'block' }}
     />
   );
 }
