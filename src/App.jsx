@@ -170,8 +170,8 @@ export default function App() {
                 </svg>
               </div>
               <h2 style={{
-                fontFamily: '"Nunito", sans-serif',
-                fontSize: '22px', fontWeight: '800',
+                fontFamily: '"Lora", Georgia, serif',
+                fontSize: '22px', fontWeight: '700',
                 color: c.darkText, marginBottom: '10px',
               }}>
                 You're on the list.
@@ -185,8 +185,8 @@ export default function App() {
             /* ── Form ── */
             <form onSubmit={handleSubmit} noValidate>
               <h2 style={{
-                fontFamily: '"Nunito", sans-serif',
-                fontSize: '20px', fontWeight: '800',
+                fontFamily: '"Lora", Georgia, serif',
+                fontSize: '20px', fontWeight: '700',
                 color: c.darkText, textAlign: 'center', marginBottom: '26px',
               }}>
                 Join the waitlist
@@ -252,7 +252,7 @@ export default function App() {
                     backgroundColor: loading ? '#c4957a' : c.cinnamon,
                     color: c.white,
                     fontSize: '16px', fontWeight: '700',
-                    fontFamily: '"Nunito", sans-serif',
+                    fontFamily: '"Lora", Georgia, serif',
                     cursor: loading ? 'not-allowed' : 'pointer',
                     letterSpacing: '0.2px',
                     transition: 'background-color 0.15s',
