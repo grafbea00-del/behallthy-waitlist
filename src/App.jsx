@@ -141,8 +141,9 @@ export default function App() {
           margin: '0 auto 40px',
         }}>
           BeHallthy connects you with qualified, insured health coaches who specialise in
-          exactly what you are dealing with. Affordable group sessions and one-to-one
-          coaching packages. Launching soon in the UK and Ireland.
+          exactly what you are dealing with. Start with a low-cost group session or 
+          a one-to-one taster, and find the coach you want to work with. 
+          Launching soon in the UK and Ireland.
         </p>
 
         {/* Form card */}
