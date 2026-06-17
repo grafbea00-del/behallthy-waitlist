@@ -109,7 +109,7 @@ export default function App() {
       {/* ── Main ── */}
       <main style={{
         flex: 1,
-        padding: '52px 24px 64px',
+        padding: '32px 24px 32px',
         maxWidth: '600px',
         margin: '0 auto',
         width: '100%',
