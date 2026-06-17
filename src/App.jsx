@@ -278,7 +278,7 @@ export default function App() {
 
       {/* ── Footer ── */}
       <footer style={{
-        padding: '20px',
+        padding: '18px',
         borderTop: `1px solid #ddd8d2`,
         backgroundColor: c.pageBg,
         textAlign: 'center',
