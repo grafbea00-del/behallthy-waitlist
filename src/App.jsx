@@ -142,8 +142,8 @@ export default function App() {
         }}>
           BeHallthy connects you with qualified, insured health coaches who specialise in
           exactly what you are dealing with. Start with a low-cost group session or 
-          a one-to-one taster, and find the coach you want to work with. 
-          Launching soon in the UK and Ireland.
+          a one-to-one taster, 
+          and find the coach you want to work with. Launching soon in the UK and Ireland.
         </p>
 
         {/* Form card */}
