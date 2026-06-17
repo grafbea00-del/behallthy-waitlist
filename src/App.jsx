@@ -23,7 +23,7 @@ function Logo() {
     <img
       src="/logo.png"
       alt="BeHallthy"
-      style={{ height: '56px', display: 'block' }}
+      style={{ height: '80px', display: 'block' }}
     />
   );
 }
