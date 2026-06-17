@@ -137,7 +137,7 @@ export default function App() {
           lineHeight: '1.75',
           color: c.midText,
           textAlign: 'center',
-          maxWidth: '500px',
+          maxWidth: '520px',
           margin: '0 auto 40px',
         }}>
           BeHallthy connects you with qualified, insured health coaches who specialise in
