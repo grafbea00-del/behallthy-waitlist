@@ -283,7 +283,8 @@ export default function App() {
         backgroundColor: c.pageBg,
         textAlign: 'center',
       }}>
-        <p style={{
+        {/* TO SHOW COACH LINE: remove the /* at the start of line 286 and the */ at the end of line 297 */}
+        {/* <p style={{
           fontSize: '14px', color: c.midText,
           lineHeight: '1.7', margin: '0 auto', maxWidth: '500px',
         }}>
@@ -294,7 +295,7 @@ export default function App() {
           >
             Email hello@behallthy.com
           </a>
-        </p>
+        </p> */}
       </footer>
 
     </div>
